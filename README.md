@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# PV Power Cà Mau Landing Page
 
-This contains everything you need to run your app locally.
+Website giới thiệu Công ty Điện lực Dầu khí Cà Mau (Chi nhánh Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP).
 
-View your app in AI Studio: https://ai.studio/apps/drive/1zYTj-dZiW53iE9FB1A4RFWs_uPUslTJ-
+## Hướng dẫn triển khai (Vercel)
 
-## Run Locally
+1. **GitHub**: Push toàn bộ mã nguồn lên một repository mới.
+2. **Vercel**: Import repository này.
+3. **Cấu hình**:
+   - Framework Preset: **Other** (hoặc Vite nếu hệ thống tự nhận diện).
+   - Build Command: Để trống (No build step required for this environment).
+   - Output Directory: `.`
+4. **Deploy**: Nhấn Deploy để hoàn tất.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Nội dung
+Toàn bộ thông tin được trích xuất từ tài liệu "Giới thiệu Công ty Điện lực Dầu khí Cà Mau".
+- Công nghệ: Siemens (Đức)
+- Công suất: 1.500 MW
+- Thành tựu: Huân chương Lao động hạng Ba.
